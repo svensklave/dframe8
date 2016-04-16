@@ -1,0 +1,45 @@
+{
+    "name": "svensklave/dframe8",
+    "description": "Full Featured Mobile HTML Framework For Building iOS & Android Apps",
+    "keywords": [
+        "mobile",
+        "framework",
+        "ios",
+        "ios 7",
+        "ios7",
+        "ios8",
+        "ios 8",
+        "ios9",
+        "ios 9",
+        "iphone",
+        "ipad",
+        "apple",
+        "phonegap",
+        "native",
+        "touch",
+        "appstore",
+        "app",
+        "f7",
+        "material",
+        "android",
+        "google",
+        "googleplay"
+    ],
+    "homepage": "https://github.com/svensklave/dframe8",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/svensklave/dframe8/issues"
+    },
+    "authors": [
+        {
+            "name": "Vladimir Kharlampidi",
+            "email": "nolimits4web@gmail.com",
+            "homepage": "http://idangero.us"
+        },
+        {
+            "name": "Svens Klave",
+            "email": "svens.klave@applyit.lv",
+            "homepage": "https://github.com/svensklave/dframe8"
+        }
+    ]
+}

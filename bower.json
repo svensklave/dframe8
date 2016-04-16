@@ -1,0 +1,29 @@
+{
+  "name": "dframe8",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svensklave/dframe8.git"
+  },
+  "description": "Full Featured Mobile HTML Framework For Building iOS & Android Apps",
+  "version": "1.4.2",
+  "author": "Vladimir Kharlampidi",
+  "homepage": "https://github.com/svensklave/dframe8",
+  "keywords": ["mobile", "framework", "ios 7", "ios7", "ios8", "ios 8", "iphone", "ipad", "apple", "phonegap", "native", "touch", "appstore", "app", "f7", "material", "android", "google", "googleplay"],
+  "scripts": [
+    "dist/js/dframe8.js"
+  ],
+  "main": "dist/",
+  "styles": [
+    "dist/css/dframe8.css"
+  ],
+  "license": ["MIT"],
+  "ignore": [
+    ".*",
+    "build",
+    "custom",
+    "gulpfile.js",
+    "apps",
+    "node_modules",
+    "package.json"
+  ]
+}
