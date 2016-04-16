@@ -1,7 +1,8 @@
 dframe8
 ==========
+This is a Port of framework 7 http://framework7.io/
 
-Full Featured Mobile HTML Framework For Building iOS & Android Apps
+Full Featured Mobile HTML Framework For Building iOS & Android Apps Extended version!
 
 ## Dist vs Build versions
 
