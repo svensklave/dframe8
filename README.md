@@ -1,5 +1,6 @@
 dframe8
 ==========
+
 This is a Port of framework 7 http://framework7.io/
 
 Full Featured Mobile HTML Framework For Building iOS & Android Apps Extended version!
@@ -41,7 +42,7 @@ $ gulp dist
 
 Distributable version will available in `dist/` folder.
 
-## Custom build
+## Custom builds
 
 You can build custom version of dframe8 with only required components/modules. For example, if we need to include only Accordion, Modals and Tabs modules in addition to dFrame 8 core: 
 
